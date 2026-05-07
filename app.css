@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    font-size: 2rem;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.bi {
+    font-size: 2rem;
+    text-align: center;
+    display: block;
+    cursor: pointer;
+    margin: 180px 80px 20px;
+}
