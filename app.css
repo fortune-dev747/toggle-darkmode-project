@@ -17,3 +17,7 @@ h1 {
     cursor: pointer;
     margin: 180px 80px 20px;
 }
+
+.footer {
+    text-align: center;
+}
